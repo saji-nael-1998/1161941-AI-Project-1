@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="map" minHeight="0.0" minWidth="0.0" prefHeight="1768.0" prefWidth="685.0" style="-fx-background-color: red;" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="1769.0" fitWidth="685.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@../../img/palestineMap.png" />
+         </image>
+      </ImageView>
+   </children>
+   <padding>
+      <Insets top="500.0" />
+   </padding>
+</AnchorPane>

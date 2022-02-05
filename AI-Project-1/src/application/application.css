@@ -1,0 +1,21 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.find-path{
+-fx-background-color : #F0A500;
+-fx-border-radius : 0;
+-fx-background-radius : 0;
+}
+.find-path:hover{
+-fx-background-color : #D19107;
+}
+.clear{
+-fx-background-color : #ffffff;
+-fx-border-radius : 0;
+-fx-background-radius : 0;
+}
+.clear:hover{
+-fx-background-color : #e9e9e9;
+}
+.field{
+-fx-border-radius : 0;
+-fx-background-radius : 0;
+}
